@@ -1,0 +1,17 @@
+.banner {
+  display: flex;
+  background-image: url(../../images/banner.jpg);
+  background-position: center;
+  height: 300px;
+  align-items: center;
+  color: white;
+  text-shadow: 1px 1px 1px rgba(34, 34, 34, 0.8);
+}
+
+.banner h1 {
+  margin-bottom: 4px;
+}
+.banner p {
+  margin-top: 4px;
+  margin-bottom: 40px;
+}

@@ -1,0 +1,11 @@
+.container {
+  width: 900px;
+  margin: 0 auto;
+
+}
+
+.container h2 {
+  text-align: center;
+  color: #232222;
+  margin-top: 20;
+}
